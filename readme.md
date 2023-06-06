@@ -8,5 +8,5 @@ management.
 
 ## Contact Me
 
-![Alt text](./linked_in_logo.svg)
+![Alt text](./linked_in_logo.png)
 [LinkedIn Profile](https://www.linkedin.com/in/matt-powell2784/)
