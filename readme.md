@@ -14,6 +14,8 @@ management.
 matt.powell2784@gmail.com
 </a>
 
+<br>
+
 <a href="https://www.linkedin.com/in/matt-powell2784/">  
 <img src="./linked_in_logo.png" alt="LinkedIn Logo">  
 <br>
