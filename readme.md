@@ -11,8 +11,6 @@ management.
 <a href="mailto:matt.powell2784@gmail.com">Email : matt.powell2784@gmail.com
 </a>
 
-<br>
-
 <a href="https://www.linkedin.com/in/matt-powell2784/">LinkedIn :
 https://www.linkedin.com/in/matt-powell2784/  
 </a>
