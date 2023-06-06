@@ -9,10 +9,9 @@ management.
 ## Contact Me
 
 <a href="mailto:matt.powell2784@gmail.com">  
-<img src="./email_icon.png" alt="Email Icon">  
-<br>
-matt.powell2784@gmail.com
-</a>
+<img src="./email_icon.png" alt="Email Icon">
+
+## matt.powell2784@gmail.com </a>
 
 <br>
 
