@@ -2,7 +2,8 @@
 
 <img src="./nodejs_icon.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./react_icon.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./next-icon.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img
 src="./typescript_icon.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img
-src="./redux_icon.png"/>
+src="./redux_icon.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img
+src="./js_icon.png"/>
 
 I’m a highly motivated software developer, with experience in JavaScript, React,
 Redux, NextJs, TypeScript, NodeJS, and GIT. Dedicated to writing clean, reusable
