@@ -10,6 +10,8 @@ management.
 src="./js_icon.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./react_icon.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img
 src="./redux_icon.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./next-icon.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img
 src="./typescript_icon.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./nodejs_icon.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img
+src="./git_icon.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## Contact Me
 
