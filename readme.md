@@ -6,7 +6,6 @@ code, and passionate about problem-solving and continuous learning. I am seeking
 a career transition into software development from a background in production
 management.
 
-<br>
 <img
 src="./js_icon.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./react_icon.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img
 src="./redux_icon.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./next-icon.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img
