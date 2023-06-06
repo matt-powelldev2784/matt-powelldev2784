@@ -8,4 +8,4 @@ management.
 
 ## Contact Me
 
-<a href="https://www.linkedin.com/in/matt-powell2784/"><img src="./linked_in_logo.png" alt="LinkedIn Logo"></a>
+<a href="https://www.linkedin.com/in/matt-powell2784/"><img src="./linked_in_logo.png" alt="LinkedIn Logo">https://www.linkedin.com/in/matt-powell2784/</a>
