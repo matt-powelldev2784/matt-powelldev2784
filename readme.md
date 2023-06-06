@@ -8,5 +8,8 @@ management.
 
 ## Contact Me
 
-<img src="./linked_in_logo.png" alt="LinkedIn Logo"> |
-[LinkedIn Profile](https://www.linkedin.com/in/matt-powell2784/) |
+<div style="display: flex; align-items: center; justify-content:center;">
+  <img src="./linked_in_logo.png" alt="LinkedIn Logo">
+  <br>
+  <a href="https://www.linkedin.com/in/matt-powell2784/">LinkedIn Profile</a>
+</div>
