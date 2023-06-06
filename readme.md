@@ -9,6 +9,6 @@ management.
 ## Contact Me
 
 | :--------------------------------------------------: |
-:--------------------------------------------------------------: |  
-| <img src="./linked_in_logo.png" alt="LinkedIn Logo"> |
+:--------------------------------------------------------------: | |
+<img src="./linked_in_logo.png" alt="LinkedIn Logo"> |
 [LinkedIn Profile](https://www.linkedin.com/in/matt-powell2784/) |
