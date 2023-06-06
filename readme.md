@@ -29,3 +29,15 @@ It uses an AWS Lamda function to generate image thumbnails.
 
 Secure pre-signed URL's are provided to upload the images directly to AWS S3
 which minimises the load on the Node Server.
+
+#### NextJs Food Take Away App
+
+<a href="https://github.com/matt-powelldev2784/nextjs-food-take-away-app">https://github.com/matt-powelldev2784/nextjs-food-take-away-app</a>
+
+A food takeaway application built to explore the main features of NextJs.  
+Built with: NextJs, TypeScript, Redux, Postgres, Prisma, and TailwindCSS.
+Utilised NextJs features for SSR, SSG, API creation, dynamic routes, and image
+optimisation.  
+User authentication using OAuth providers and secure email links using
+Next-Auth.  
+Payment gateway integrated using Stripe.
