@@ -47,4 +47,5 @@ Utilised NextJs features for SSR, SSG, API creation, dynamic routes, and image
 optimisation.  
 User authentication using OAuth providers and secure email links using
 Next-Auth.  
-Payment gateway integrated using Stripe.
+Payment gateway integrated using Stripe.  
+Email confirmation generated using sendGrid.
