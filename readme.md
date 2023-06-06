@@ -7,9 +7,9 @@ a career transition into software development from a background in production
 management.
 
 <img
-src="./js_icon.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./nodejs_icon.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./react_icon.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./next-icon.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img
-src="./typescript_icon.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img
-src="./redux_icon.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+src="./js_icon.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./react_icon.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img
+src="./redux_icon.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./next-icon.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img
+src="./typescript_icon.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./nodejs_icon.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## Contact Me
 
