@@ -1,8 +1,7 @@
 # Matthew Powell
 
-<img src="./nodejs_icon.png"/>
-<img src="./react_icon.png"/>
-<img src="./next-icon.png/>
+<img src="./nodejs_icon.png"/><img src="./react_icon.png"/><img
+src="./next-icon.png/>
 
 I’m a highly motivated software developer, with experience in JavaScript, React,
 Redux, NextJs, TypeScript, NodeJS, and GIT. Dedicated to writing clean, reusable
