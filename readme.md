@@ -8,13 +8,11 @@ management.
 
 ## Contact Me
 
-<a href="mailto:matt.powell2784@gmail.com">  
-<img src="./email_icon.png" alt="Email Icon">## matt.powell2784@gmail.com </a>
+<a href="mailto:matt.powell2784@gmail.com">Email : matt.powell2784@gmail.com
+</a>
 
 <br>
 
-<a href="https://www.linkedin.com/in/matt-powell2784/">  
-<img src="./linked_in_logo.png" alt="LinkedIn Logo">  
-<br>
+<a href="https://www.linkedin.com/in/matt-powell2784/">LinkedIn :
 https://www.linkedin.com/in/matt-powell2784/  
 </a>
