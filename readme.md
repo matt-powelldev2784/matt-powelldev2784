@@ -2,9 +2,10 @@
 
 I’m a highly motivated software developer, with experience in JavaScript, React,
 Redux, NextJs, TypeScript, NodeJS, and GIT. Dedicated to writing clean, reusable
-code, and passionate about problem-solving and continuous learning. I am seeking
-a career transition into software development from a background in production
-management.
+code, and passionate about problem-solving and continuous learning. I'm
+currently attending a web development bootcamp with Founders and Coders.I am
+seeking a career transition into software development from a background in
+production management.
 
 <img
 src="./js_icon.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./react_icon.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img
