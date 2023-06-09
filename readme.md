@@ -1,19 +1,19 @@
 # Matthew Powell
 
 I’m a highly motivated software developer, with experience in JavaScript, React,
-Redux, NextJs, TypeScript, NodeJS, and GIT. Dedicated to writing clean, reusable
-code, and passionate about problem-solving and continuous learning. I'm
-currently attending a web development bootcamp with Founders and Coders. I am
-seeking a career transition into software development from a background in
-production management.
+Redux, React Testing Library, NextJs, TypeScript, NodeJS and GIT. Dedicated to
+writing clean, reusable code, and passionate about problem-solving and
+continuous learning. I'm currently attending a web development bootcamp with
+Founders and Coders. I am seeking a career transition into software development
+from a background in production management.
 
 <img
 src="./js_icon.png"/>&nbsp;&nbsp;<img src="./react_icon.png"/>&nbsp;&nbsp;<img
-src="./redux_icon.png"/>&nbsp;&nbsp;<img src="./next-icon.png"/>&nbsp;&nbsp;<img
+src="./redux_icon.png"/>&nbsp;&nbsp;<img
+src="./rtl_icon.png"/>&nbsp;&nbsp;<img src="./next-icon.png"/>&nbsp;&nbsp;<img
 src="./typescript_icon.png"/>&nbsp;&nbsp;<img src="./nodejs_icon.png"/>&nbsp;&nbsp;
 <img src="./git_icon.png"/>&nbsp;&nbsp;<img
-src="./jest_icon.png"/>&nbsp;&nbsp;<img
-src="./rtl_icon.png"/>&nbsp;&nbsp;
+src="./jest_icon.png"/>&nbsp;&nbsp;
 
 ## Contact Me
 
