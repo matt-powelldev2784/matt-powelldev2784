@@ -60,4 +60,5 @@ for training and match days.
 Frontend: React, TypeScript, Redux, Styled Components  
 Backend: NodeJS, Express, MongoDB, Express Validator, Bcrypt, JWT  
 Utilised React DND Library for drag and drop functionality  
-Implemented CI/CD using Circle CI Testing: React Testing Library, Jest
+Implemented CI/CD using Circle CI  
+Testing: React Testing Library, Jest
