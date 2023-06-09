@@ -50,3 +50,14 @@ User authentication using OAuth providers and secure email links using
 Next-Auth.  
 Payment gateway integrated using Stripe.  
 Email confirmation generated using sendGrid.
+
+#### Old Thorntains FC Player Registration App
+
+<a href="https://otsregister.netlify.app/">https://otsregister.netlify.app/</a>
+
+An application built for my amateur football team to manage player registration
+for training and match days.  
+Frontend: React, TypeScript, Redux, Styled Components  
+Backend: NodeJS, Express, MongoDB, Express Validator, Bcrypt, JWT  
+Utilised React DND Library for drag and drop functionality  
+Implemented CI/CD using Circle CI Testing: React Testing Library, Jest
