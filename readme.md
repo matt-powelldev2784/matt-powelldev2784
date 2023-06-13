@@ -39,7 +39,10 @@ It uses an AWS Lamda function to generate image thumbnails.
 Secure pre-signed URL's are provided to upload the images directly to AWS S3
 which minimises the load on the Node Server.
 
-Front End Currently Under Construction: https://aws-image-library.netlify.app/
+Front End Currently Under Construction:  
+https://aws-image-library.netlify.app/  
+https://github.com/matt-powelldev2784/AWS_Image_Library_Client  
+Built with React, Redux-Toolkit and TailwindCss.
 
 #### NextJs Food Take Away App
 
