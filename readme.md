@@ -42,7 +42,8 @@ which minimises the load on the Node Server.
 Front End Currently Under Construction:  
 https://aws-image-library.netlify.app/  
 https://github.com/matt-powelldev2784/AWS_Image_Library_Client  
-Built with React, Redux-Toolkit and TailwindCss.
+Built with React, Redux-Toolkit and TailwindCss.  
+Testing Implemented with React Testing Library
 
 #### NextJs Food Take Away App
 
