@@ -41,7 +41,7 @@ Secure pre-signed URL's are provided to upload the images directly to AWS S3
 which minimises the load on the Node Server.
 
 Front End Currently Under Construction:  
-Website: http://aws-image-hosting-client.s3-website.eu-west-2.amazonaws.com/
+Website: http://aws-image-hosting-client.s3-website.eu-west-2.amazonaws.com  
 Github client code:
 https://github.com/matt-powelldev2784/AWS_Image_Library_Client
 
