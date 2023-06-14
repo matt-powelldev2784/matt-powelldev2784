@@ -29,7 +29,8 @@ Website
 
 #### NodeJs Image Library Server
 
-<a href="https://github.com/matt-powelldev2784/AWS_EC2_Lamda_Image_Library">https://github.com/matt-powelldev2784/AWS_EC2_Lamda_Image_Library</a>
+Github server code:
+https://github.com/matt-powelldev2784/AWS_EC2_Lamda_Image_Library
 
 Node JS API Server built to enable a front end to serve an image library.  
 Images are hosted in an AWS S3 Bucket.  
@@ -40,15 +41,16 @@ Secure pre-signed URL's are provided to upload the images directly to AWS S3
 which minimises the load on the Node Server.
 
 Front End Currently Under Construction:  
-http://aws-image-hosting-client.s3-website.eu-west-2.amazonaws.com/
+Website: http://aws-image-hosting-client.s3-website.eu-west-2.amazonaws.com/
+Github client code:
+https://github.com/matt-powelldev2784/AWS_Image_Library_Client
 
-https://github.com/matt-powelldev2784/AWS_Image_Library_Client  
 Hosted on AWS S3, built with React, Redux-Toolkit and TailwindCss.  
 Testing Implemented with React Testing Library
 
 #### NextJs Food Take Away App
 
-<a href="https://github.com/matt-powelldev2784/nextjs-food-take-away-app">https://github.com/matt-powelldev2784/nextjs-food-take-away-app</a>
+Github code: https://github.com/matt-powelldev2784/nextjs-food-take-away-app
 
 A food takeaway application built to explore the main features of NextJs.  
 Built with NextJs, TypeScript, Redux, Postgres, Prisma, and TailwindCSS.  
@@ -61,7 +63,9 @@ Email confirmation generated using sendGrid.
 
 #### Old Thorntains FC Player Registration App
 
-<a href="https://otsregister.netlify.app/">https://otsregister.netlify.app/</a>
+Website: https://otsregister.netlify.app  
+Github server code: https://github.com/matt-powelldev2784/ots-server  
+Github client code: https://github.com/matt-powelldev2784/otsregister
 
 An application built for my amateur football team to manage player registration
 for training and match days.  
