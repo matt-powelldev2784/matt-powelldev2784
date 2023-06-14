@@ -27,7 +27,7 @@ Website
 
 ## Recent Projects
 
-#### NodeJs Image Library Server
+### NodeJs Image Library Server
 
 Website: http://aws-image-hosting-client.s3-website.eu-west-2.amazonaws.com  
 Github server code:
@@ -46,7 +46,7 @@ Front End Currently Under Construction:
 Hosted on AWS S3, built with React, Redux-Toolkit and TailwindCss.  
 Testing Implemented with React Testing Library
 
-#### NextJs Food Take Away App
+### NextJs Food Take Away App
 
 Github code: https://github.com/matt-powelldev2784/nextjs-food-take-away-app
 
@@ -59,7 +59,7 @@ Next-Auth.
 Payment gateway integrated using Stripe.  
 Email confirmation generated using sendGrid.
 
-#### Old Thorntains FC Player Registration App
+### Old Thorntains FC Player Registration App
 
 Website: https://otsregister.netlify.app  
 Github server code: https://github.com/matt-powelldev2784/ots-server  
