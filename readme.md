@@ -30,8 +30,8 @@ Website
 #### NodeJs Image Library Server
 
 Github server code:
-https://github.com/matt-powelldev2784/AWS_EC2_Lamda_Image_Library Website:
-http://aws-image-hosting-client.s3-website.eu-west-2.amazonaws.com  
+https://github.com/matt-powelldev2784/AWS_EC2_Lamda_Image_Library  
+Website: http://aws-image-hosting-client.s3-website.eu-west-2.amazonaws.com  
 Github client code:
 https://github.com/matt-powelldev2784/AWS_Image_Library_Client
 
