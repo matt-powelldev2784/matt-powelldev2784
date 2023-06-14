@@ -39,7 +39,7 @@ It uses an AWS Lamda function to generate image thumbnails.
 Secure pre-signed URL's are provided to upload the images directly to AWS S3
 which minimises the load on the Node Server.
 
-Front End Currently Under Construction:
+Front End Currently Under Construction:  
 http://aws-image-hosting-client.s3-website.eu-west-2.amazonaws.com/
 
 https://github.com/matt-powelldev2784/AWS_Image_Library_Client  
