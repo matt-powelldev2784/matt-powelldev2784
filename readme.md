@@ -39,7 +39,7 @@ It uses an AWS Lamda function to generate image thumbnails.
 Secure pre-signed URL's are provided to upload the images directly to AWS S3
 which minimises the load on the Node Server.
 
-### Image Library Client
+### React Image Library Client
 
 Currently under construction:  
 Hosted on AWS S3, built with React, Redux-Toolkit and TailwindCss.  
