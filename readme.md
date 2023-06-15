@@ -30,9 +30,7 @@ Website
 ### NodeJs Image Library Server
 
 Github server code:
-https://github.com/matt-powelldev2784/AWS_EC2_Lamda_Image_Library  
-Github client code:
-https://github.com/matt-powelldev2784/AWS_Image_Library_Client
+https://github.com/matt-powelldev2784/AWS_EC2_Lamda_Image_Library
 
 Node JS API Server built to enable a front end to serve an image library.  
 Images are hosted in an AWS S3 Bucket.  
@@ -41,11 +39,13 @@ It uses an AWS Lamda function to generate image thumbnails.
 Secure pre-signed URL's are provided to upload the images directly to AWS S3
 which minimises the load on the Node Server.
 
-##### Image Library Client
+### Image Library Client
 
-Currently under construction: Hosted on AWS S3, built with React, Redux-Toolkit
-and TailwindCss.  
+Currently under construction:  
+Hosted on AWS S3, built with React, Redux-Toolkit and TailwindCss.  
 Testing Implemented with React Testing Library  
+Github client code:
+https://github.com/matt-powelldev2784/AWS_Image_Library_Client  
 Website: http://aws-image-hosting-client.s3-website.eu-west-2.amazonaws.com
 
 ### NextJs Food Take Away App
