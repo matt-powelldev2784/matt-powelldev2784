@@ -41,9 +41,9 @@ which minimises the load on the Node Server.
 
 ### React Image Library Client
 
-Currently under construction:  
 Hosted on AWS S3, built with React, Redux-Toolkit and TailwindCss.  
-Testing Implemented with React Testing Library  
+Testing Implemented with React Testing Library
+
 Github client code:
 https://github.com/matt-powelldev2784/AWS_Image_Library_Client  
 Website: http://aws-image-hosting-client.s3-website.eu-west-2.amazonaws.com
