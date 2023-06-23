@@ -34,8 +34,8 @@ https://github.com/matt-powelldev2784/AWS_EC2_Lamda_Image_Library
 
 Node JS API Server built to enable a front end to serve an image library.  
 Images are hosted in an AWS S3 Bucket.  
-CICD implemented using github actions. The node server is hosted in an AWS EC2
-Instance.  
+CICD implemented using github actions.  
+The node server is hosted in an AWS EC2 Instance.  
 It uses an AWS Lamda function to generate image thumbnails.  
 Secure pre-signed URL's are provided to upload the images directly to AWS S3
 which minimises the load on the Node Server.
