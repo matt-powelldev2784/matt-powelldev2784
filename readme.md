@@ -45,7 +45,7 @@ CICD implemented using github actions.
 Hosted on AWS S3, built with React, Redux-Toolkit and TailwindCss.  
 Testing Implemented with React Testing Library.
 
-Website: http://aws-image-hosting-client.s3-website.eu-west-2.amazonaws.com
+Website: http://aws-image-hosting-client.s3-website.eu-west-2.amazonaws.com  
 Github client code:
 https://github.com/matt-powelldev2784/AWS_Image_Library_Client
 
