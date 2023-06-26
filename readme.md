@@ -34,11 +34,11 @@ https://github.com/matt-powelldev2784/AWS_EC2_Lamda_Image_Library
 
 NodeJS API Server built to enable a front end to serve an image library.  
 Images are hosted in an AWS S3 Bucket.  
-CICD implemented using github actions.  
 The node server is deployed in an AWS EC2 Instance.  
-Image thumbnail generation is facilitated by an AWS Lambda function. Secure
-pre-signed URL's are provided to upload the images directly to AWS S3 which
-minimises the load on the Node Server.
+Image thumbnail generation is facilitated by an AWS Lambda function.  
+Secure pre-signed URL's are provided to upload the images directly to AWS S3
+which minimises the load on the Node Server.  
+CICD implemented using github actions.
 
 ### React Image Library Client
 
