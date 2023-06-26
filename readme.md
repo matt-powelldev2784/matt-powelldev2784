@@ -43,7 +43,8 @@ CICD implemented using github actions.
 ### React Image Library Client
 
 Hosted on AWS S3, built with React, Redux-Toolkit and TailwindCss.  
-Testing Implemented with React Testing Library.
+Drag and Drop functionality for user friendly image uploading. Testing
+Implemented with React Testing Library.
 
 Website: http://aws-image-hosting-client.s3-website.eu-west-2.amazonaws.com  
 Github client code:
@@ -62,7 +63,7 @@ Next-Auth.
 Payment gateway integrated using Stripe.  
 Email confirmation generated using sendGrid.
 
-### Old Thorntains FC Player Registration App
+### Old Thorntonians FC Player Registration App
 
 Website: https://otsregister.netlify.app  
 Github server code: https://github.com/matt-powelldev2784/ots-server  
