@@ -27,18 +27,6 @@ Website:
 
 ## Recent Projects
 
-### React Image Library Client
-
-Website: http://aws-image-hosting-client.s3-website.eu-west-2.amazonaws.com  
-Github client code:
-https://github.com/matt-powelldev2784/AWS_Image_Library_Client
-
-An image library client similar to Unsplash and iStock.  
-Built to compliment Image Library Server as described below.  
-Hosted on AWS S3, built with React, Redux-Toolkit and TailwindCss.  
-Drag and Drop functionality for user friendly image uploading.  
-Testing Implemented with React Testing Library.
-
 ### Redry NodeJs and React Image Library
 
 Website: http://aws-image-hosting-client.s3-website.eu-west-2.amazonaws.com
