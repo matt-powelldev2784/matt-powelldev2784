@@ -34,8 +34,8 @@ Github client code:
 https://github.com/matt-powelldev2784/AWS_Image_Library_Client
 
 Hosted on AWS S3, built with React, Redux-Toolkit and TailwindCss.  
-Drag and Drop functionality for user friendly image uploading. Testing
-Implemented with React Testing Library.
+Drag and Drop functionality for user friendly image uploading.  
+Testing Implemented with React Testing Library.
 
 ### NodeJs Image Library Server
 
