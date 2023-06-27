@@ -33,22 +33,32 @@ Website: http://aws-image-hosting-client.s3-website.eu-west-2.amazonaws.com
 Github client code:
 https://github.com/matt-powelldev2784/AWS_Image_Library_Client
 
+An image library client similar to Unsplash and iStock.  
+Built to compliment Image Library Server as described below.  
 Hosted on AWS S3, built with React, Redux-Toolkit and TailwindCss.  
 Drag and Drop functionality for user friendly image uploading.  
 Testing Implemented with React Testing Library.
 
-### NodeJs Image Library Server
+### Redry NodeJs and React Image Library
 
+Website: http://aws-image-hosting-client.s3-website.eu-west-2.amazonaws.com
+
+Github client code:
+https://github.com/matt-powelldev2784/AWS_Image_Library_Client  
 Github server code:
 https://github.com/matt-powelldev2784/AWS_EC2_Lamda_Image_Library
 
-NodeJS API Server built to enable a front end to serve an image library.  
+Front End:  
+React, Typescript, Redux and Tailwind CSS.  
+Testing implemented using React Testing Library.
+
+Backend:  
+Node, Express and MongoDB.  
+Server is deployed in an AWS EC2 Instance.  
 Images are hosted in an AWS S3 Bucket.  
-The node server is deployed in an AWS EC2 Instance.  
 Image thumbnail generation is facilitated by an AWS Lambda function.  
-Secure pre-signed URL's are provided to upload the images directly to AWS S3
-which minimises the load on the Node Server.  
-CICD implemented using github actions.
+Secure pre-signed URL's are provided to upload the images directly to AWS S3.  
+CICD implemented using Github actions.
 
 ### NextJs Food Take Away App
 
