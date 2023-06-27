@@ -27,7 +27,7 @@ Website:
 
 ## Recent Projects
 
-### Redry Image Library NodeJs Server and React Client
+### Redry Image Library
 
 Website: http://aws-image-hosting-client.s3-website.eu-west-2.amazonaws.com
 
