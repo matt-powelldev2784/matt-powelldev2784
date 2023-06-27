@@ -22,7 +22,7 @@ Email: <a href="mailto:matt.powell2784@gmail.com">matt.powell2784@gmail.com </a>
 LinkedIn:
 <a href="https://www.linkedin.com/in/matt-powell2784/">https://www.linkedin.com/in/matt-powell2784/</a>
 
-Website
+Website:
 <a href="https://matt-powelldev2784.github.io/portfolio/">https://matt-powelldev2784.github.io/portfolio/</a>
 
 ## Recent Projects
