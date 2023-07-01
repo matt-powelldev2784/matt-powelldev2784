@@ -50,6 +50,8 @@ CICD implemented using Github actions.
 
 ### NextJs Food Take Away App
 
+Website: https://nextjs-food-take-away-app-xm8o.vercel.app
+
 Github code: https://github.com/matt-powelldev2784/nextjs-food-take-away-app
 
 A food takeaway application built to explore the main features of NextJs.  
@@ -59,11 +61,13 @@ optimisation.
 User authentication using OAuth providers and secure email links using
 Next-Auth.  
 Payment gateway integrated using Stripe.  
-Email confirmation generated using sendGrid.
+Email confirmation generated using sendGrid.  
+Deployed on vercel.
 
 ### Old Thorntonians FC Player Registration App
 
-Website: https://otsregister.netlify.app  
+Website: https://otsregister.netlify.app
+
 Github server code: https://github.com/matt-powelldev2784/ots-server  
 Github client code: https://github.com/matt-powelldev2784/otsregister
 
