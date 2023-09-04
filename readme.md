@@ -20,7 +20,7 @@ src="./jest_icon.png"/>&nbsp;&nbsp;
 Email: <a href="mailto:matt.powell2784@gmail.com">matt.powell2784@gmail.com </a>
 
 LinkedIn:
-<a href="https://www.linkedin.com/in/matt-powell2784/">https://www.linkedin.com/in/matt-powell2784/</a>
+<a href="https://www.linkedin.com/in/matthew-powell-dev/">https://www.linkedin.com/in/matthew-powell-dev/</a>
 
 Website:
 <a href="https:/www.matthew-powell-dev.com">https:/www.matthew-powell-dev.com</a>
