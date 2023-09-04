@@ -23,7 +23,7 @@ LinkedIn:
 <a href="https://www.linkedin.com/in/matt-powell2784/">https://www.linkedin.com/in/matt-powell2784/</a>
 
 Website:
-<a href="https://matt-powelldev2784.github.io/portfolio/">https://matt-powelldev2784.github.io/portfolio/</a>
+<a href="https:/www.matthew-powell-dev.com">https:/www.matthew-powell-dev.com</a>
 
 ## Recent Projects
 
