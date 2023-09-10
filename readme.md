@@ -23,7 +23,7 @@ LinkedIn:
 <a href="https://www.linkedin.com/in/matthew-powell-dev/">https://www.linkedin.com/in/matthew-powell-dev/</a>
 
 Website:
-<a href="https://www.matthew-powell-dev.com">https:/www.matthew-powell-dev.com</a>
+<a href="https://www.matthew-powell-dev.com">https://www.matthew-powell-dev.com</a>
 
 ## Recent Projects
 
