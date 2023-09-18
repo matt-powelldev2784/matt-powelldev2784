@@ -30,7 +30,7 @@ Website:
 ### Max Volts Website and Invoicing Dashboard
 Static website and invoicing dashboard built for electrical contractor.  
 
-Website: https://maxvolts.vercel.app
+Website: https://max-volts.vercel.app/
 
 Github code: https://github.com/matt-powelldev2784/max_volts
 
