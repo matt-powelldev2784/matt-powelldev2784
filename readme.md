@@ -28,12 +28,12 @@ Website:
 ## Recent Projects
 
 ### Max Volts Website and Invoicing Dashboard
-
-Github code: https://github.com/matt-powelldev2784/max_volts
+Static website and invoicing dashboard built for electrical contractor.  
 
 Website: https://maxvolts.vercel.app
 
-• Static website and invoicing dashboard built for electrical contractor.  
+Github code: https://github.com/matt-powelldev2784/max_volts
+
 • Built With: NextJs, Typescript, Redux, Prisma, Postgres and Tailwind CSS.   
 • PDF invoices generated on demand in the browser  
 • User authentication using OAuth providers and secure email links using Next-Auth.  
@@ -41,6 +41,7 @@ Website: https://maxvolts.vercel.app
 
 
 ### Redry Image Library
+User generated image library built to explore AWS services.
 
 Website: http://aws-image-hosting-client.s3-website.eu-west-2.amazonaws.com
 
@@ -62,19 +63,19 @@ Backend:
 • CICD implemented using Github actions.
 
 ### NextJs Food Take Away App
+A food takeaway application built to explore the main features of NextJs. 
 
 Website: https://nextjs-food-take-away-app-xm8o.vercel.app
 
 Github code: https://github.com/matt-powelldev2784/nextjs-food-take-away-app
-
-A food takeaway application built to explore the main features of NextJs.  
+ 
 • Built with NextJs, TypeScript, Redux, Postgres, Prisma, and TailwindCSS.  
-• Utilised NextJs features API creation, dynamic routes, code splitting and image
+• Utilised NextJs features API creation, dynamic routes, automatic code splitting and image
 optimisation.  
 • User authentication using OAuth providers and secure email links using
 Next-Auth.  
 • Payment gateway integrated using Stripe.  
-• Email confirmation generated using sendGrid.  
+• Email confirmations generated using sendGrid.  
 • Deployed on vercel.
 
 
