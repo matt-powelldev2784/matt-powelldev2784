@@ -40,12 +40,12 @@ Github code: https://github.com/matt-powelldev2784/max_volts
 
 
 ### Redry Image Library
-User generated image library built to explore AWS services.
+User generated image library built to explore AWS services.  
 Website: http://aws-image-hosting-client.s3-website.eu-west-2.amazonaws.com
 Github client code:
-https://github.com/matt-powelldev2784/AWS_Image_Library_Client  
+https://github.com/matt-powelldev2784/AWS_Image_Library_Client    
 Github server code:
-https://github.com/matt-powelldev2784/AWS_EC2_Lamda_Image_Library
+https://github.com/matt-powelldev2784/AWS_EC2_Lamda_Image_Library  
 
 Front End:  
 • React, Typescript, Redux and Tailwind CSS.  
@@ -61,9 +61,9 @@ Backend:
 
 ### NextJs Food Take Away App
 
-A food takeaway application built to explore the main features of NextJs. 
-Website: https://nextjs-food-take-away-app-xm8o.vercel.app
-Github code: https://github.com/matt-powelldev2784/nextjs-food-take-away-app
+A food takeaway application built to explore the main features of NextJs.   
+Website: https://nextjs-food-take-away-app-xm8o.vercel.app  
+Github code: https://github.com/matt-powelldev2784/nextjs-food-take-away-app  
  
 • Built with NextJs, TypeScript, Redux, Postgres, Prisma, and TailwindCSS.  
 • Utilised NextJs features API creation, dynamic routes, automatic code splitting and image
@@ -77,7 +77,7 @@ Next-Auth.
 
 ### Junior Dev Person Javascript Platform Game
 
-'Junior Dev Person' is an 8-bit style platform game.
+'Junior Dev Person' is an 8-bit style platform game.  
 Play the game: https://matt-powelldev2784.github.io/founders_and_coders_feature_game/
 
 • Built with JavaScript, is uses an endlessly scrolling background effect.    
