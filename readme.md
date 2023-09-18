@@ -27,6 +27,19 @@ Website:
 
 ## Recent Projects
 
+### Max Volts Website and Invoicing Dashboard
+
+Github code: https://github.com/matt-powelldev2784/max_volts
+
+Website: https://maxvolts.vercel.app
+
+Static website and invoicing dashboard built for electrical contractor.
+Built With: NextJs, Typescript, Redux, Prisma, Postgres and Tailwind CSS. 
+PDF invoices generated on demand in the browser
+User authentication using OAuth providers and secure email links using Next-Auth.
+Dashboard built for easy storage and retrieval of all client, product and invoicing data
+
+
 ### Redry Image Library
 
 Website: http://aws-image-hosting-client.s3-website.eu-west-2.amazonaws.com
@@ -64,17 +77,4 @@ Payment gateway integrated using Stripe.
 Email confirmation generated using sendGrid.  
 Deployed on vercel.
 
-### Old Thorntonians FC Player Registration App
 
-Website: https://otsregister.netlify.app
-
-Github server code: https://github.com/matt-powelldev2784/ots-server  
-Github client code: https://github.com/matt-powelldev2784/otsregister
-
-An application built for my amateur football team to manage player registration
-for training and match days.  
-Frontend: React, TypeScript, Redux, Styled Components  
-Backend: NodeJS, Express, MongoDB, Express Validator, Bcrypt, JWT  
-Utilised React DND Library for drag and drop functionality  
-Implemented CI/CD using Circle CI  
-Testing: React Testing Library, Jest
