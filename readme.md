@@ -78,7 +78,8 @@ Next-Auth.
 ### Junior Dev Person Javascript Platform Game
 
 'Junior Dev Person' is an 8-bit style platform game.  
-Play the game: https://matt-powelldev2784.github.io/founders_and_coders_feature_game/
+Play the game: https://matt-powelldev2784.github.io/founders_and_coders_feature_game
+Github code: https://github.com/matt-powelldev2784/founders_and_coders_feature_game
 
 • Built with JavaScript, it uses the requestAnimationFrame method to repeatedly update the DOM when the screen is repainted.   
 • Game tokens are generated randomly and removed from the DOM once they have travelled across the screen.   
