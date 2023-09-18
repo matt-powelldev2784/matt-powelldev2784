@@ -41,7 +41,7 @@ Github code: https://github.com/matt-powelldev2784/max_volts
 
 ### Redry Image Library
 User generated image library built to explore AWS services.  
-Website: http://aws-image-hosting-client.s3-website.eu-west-2.amazonaws.com
+Website: http://aws-image-hosting-client.s3-website.eu-west-2.amazonaws.com  
 Github client code:
 https://github.com/matt-powelldev2784/AWS_Image_Library_Client    
 Github server code:
