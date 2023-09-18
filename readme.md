@@ -30,7 +30,7 @@ Website:
 ### Max Volts Website and Invoicing Dashboard
 Static website and invoicing dashboard built for electrical contractor.  
 
-Website: https://max-volts.vercel.app/
+Website: <a href="https://max-volts.vercel.app/" target="_blank">https://max-volts.vercel.app/</a>
 
 Github code: https://github.com/matt-powelldev2784/max_volts
 
@@ -79,3 +79,12 @@ Next-Auth.
 • Deployed on vercel.
 
 
+### Junior Dev Person Javascript Platform Game
+'Junior Dev Person' is an 8-bit style platform game.
+
+Play the game: https://matt-powelldev2784.github.io/founders_and_coders_feature_game/
+
+• Built with JavaScript, is uses an endlessly scrolling background effect
+• It uses the requestAnimationFrame method to constantly update the DOM after each repaint. 
+• Game tokens are generated randomly and removed from the DOM once they have travelled across the screen. 
+• A backend built using NodeJS and Express is used to store the high scores. Touch detection logic is used to enable play on touch devices.
