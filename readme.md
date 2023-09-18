@@ -17,13 +17,13 @@ src="./jest_icon.png"/>&nbsp;&nbsp;
 
 ## Contact Me
 
-Email: <a href="mailto:matt.powell2784@gmail.com">matt.powell2784@gmail.com </a>
+Email: <a href="mailto:matt.powell2784@gmail.com" target="_blank">matt.powell2784@gmail.com </a>
 
 LinkedIn:
-<a href="https://www.linkedin.com/in/matthew-powell-dev/">https://www.linkedin.com/in/matthew-powell-dev/</a>
+<a href="https://www.linkedin.com/in/matthew-powell-dev/" target="_blank">https://www.linkedin.com/in/matthew-powell-dev/</a>
 
 Website:
-<a href="https://www.matthew-powell-dev.com">https://www.matthew-powell-dev.com</a>
+<a href="https://www.matthew-powell-dev.com" target="_blank">https://www.matthew-powell-dev.com</a>
 
 ## Recent Projects
 
