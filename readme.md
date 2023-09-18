@@ -87,4 +87,5 @@ Play the game: https://matt-powelldev2784.github.io/founders_and_coders_feature_
 • Built with JavaScript, is uses an endlessly scrolling background effect.    
 • It uses the requestAnimationFrame method to constantly update the DOM after each repaint.   
 • Game tokens are generated randomly and removed from the DOM once they have travelled across the screen.   
-• A backend built using NodeJS and Express is used to store the high scores. Touch detection logic is used to enable play on touch devices.  
+• A backend built using NodeJS and Express is used to store the high scores. 
+• Touch detection logic is used to enable play on touch devices.  
