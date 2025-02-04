@@ -28,8 +28,9 @@ Website:
 
 A food takeaway application built to explore the main features of NextJS.   
 
-Website: https://curry-shop.vercel.app/
-Github code: https://github.com/matt-powelldev2784/curry-shop 
+Website: <a href="https://curry-shop.vercel.app/" target="_blank">https://curry-shop.vercel.app/</a>  
+Github code: https://github.com/matt-powelldev2784/curry-shop
+
 
 • Built with NextJS, Sanity CMS, TypeScript, Postgres, Prisma and TailwindCSS. 
 • The site utilises NextJS features for SSR, ISR, API creation, dynamic routes, and image optimisation. 
@@ -51,7 +52,7 @@ Github code: https://github.com/matt-powelldev2784/max_volts
 
 ### Redry Image Library
 User generated image library built to explore AWS services.  
-Website: http://aws-image-hosting-client.s3-website.eu-west-2.amazonaws.com  
+Website: <a href="http://aws-image-hosting-client.s3-website.eu-west-2.amazonaws.com" target="_blank">http://aws-image-hosting-client.s3-website.eu-west-2.amazonaws.com  </a>  
 Github client code:
 https://github.com/matt-powelldev2784/AWS_Image_Library_Client    
 Github server code:
