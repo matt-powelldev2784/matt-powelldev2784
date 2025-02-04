@@ -1,11 +1,8 @@
 # Matthew Powell
 
-I’m a highly motivated software developer, with experience in JavaScript, React,
-Redux, React Testing Library, NextJs, TypeScript, NodeJS and GIT. Dedicated to
-writing clean, reusable code, and passionate about problem-solving and
-continuous learning. I'm have completed a web development bootcamp with
-Founders and Coders. I am seeking a career transition into software development
-from a background in production management.
+Software developer, with a passion for all things JavaScript. Dedicated to writing clean, reusable code, 
+and passionate about problem-solving and continuous learning. Possessing a strong technical skillset, including 
+expertise in React, TypeScript, and NodeJS.
 
 <img
 src="./js_icon.png"/>&nbsp;&nbsp;<img src="./react_icon.png"/>&nbsp;&nbsp;<img
@@ -26,6 +23,19 @@ Website:
 <a href="https://www.matthew-powell-dev.com" target="_blank">https://www.matthew-powell-dev.com</a>
 
 ## Recent Projects
+
+### NextJs Food Take Away App
+
+A food takeaway application built to explore the main features of NextJS.   
+
+Website: https://curry-shop.vercel.app/
+Github code: https://github.com/matt-powelldev2784/curry-shop 
+
+• Built with NextJS, Sanity CMS, TypeScript, Postgres, Prisma and TailwindCSS. 
+• The site utilises NextJS features for SSR, ISR, API creation, dynamic routes, and image optimisation. 
+• Menu items can be added, edited and deleted using the Sanity CMS. 
+• User authentication implemented with Next-Auth.
+• Payment gateway integrated using Stripe.
 
 ### Max Volts Website and Invoicing Dashboard
 
@@ -59,22 +69,6 @@ Backend:
 • Secure pre-signed URL's are provided to upload the images directly to AWS S3.  
 • CICD implemented using Github actions.
 
-### NextJs Food Take Away App
-
-A food takeaway application built to explore the main features of NextJs.   
-Website: https://nextjs-food-take-away-app-xm8o.vercel.app  
-Github code: https://github.com/matt-powelldev2784/nextjs-food-take-away-app  
- 
-• Built with NextJs, TypeScript, Redux, Postgres, Prisma, and TailwindCSS.  
-• Utilised NextJs features API creation, dynamic routes, automatic code splitting and image
-optimisation.  
-• User authentication using OAuth providers and secure email links using
-Next-Auth.  
-• Payment gateway integrated using Stripe.  
-• Email confirmations generated using sendGrid.  
-• Deployed on vercel.
-
-
 ### Junior Dev Person Javascript Platform Game
 
 'Junior Dev Person' is an 8-bit style platform game.  
@@ -82,6 +76,6 @@ Play the game: https://matt-powelldev2784.github.io/founders_and_coders_feature_
 Github code: https://github.com/matt-powelldev2784/founders_and_coders_feature_game
 
 • Built with JavaScript, it uses the requestAnimationFrame method to repeatedly update the DOM when the screen is repainted.   
-• Game tokens are generated randomly and removed from the DOM once they have travelled across the screen.   
+• Game tokens are generated randomly and removed from the DOM once they have traveled across the screen.   
 • A backend built using NodeJS and Express is used to store the high scores. 
 • Touch detection logic is used to enable play on touch devices.  
