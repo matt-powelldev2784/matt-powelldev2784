@@ -26,9 +26,9 @@ Website:
 
 ### The Toy Shop
 App built with NextJS, TypeScript, Sanity CMS, and Shopify.
+
 Website: <a href="https://toytoystore.vercel.app" target="_blank">https://toytoystore.vercel.app/</a>  
-Github code:
-https://github.com/matt-powelldev2784/toytoystore 
+Github code:https://github.com/matt-powelldev2784/toytoystore 
 
 
 • All Pages are server-side rendered using NextJS.
