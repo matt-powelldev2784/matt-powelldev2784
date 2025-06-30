@@ -24,6 +24,20 @@ Website:
 
 ## Recent Projects
 
+### The Toy Shop
+App built with NextJS, TypeScript, Sanity CMS, and Shopify.
+Website: <a href="https://toytoystore.vercel.app" target="_blank">https://toytoystore.vercel.app/</a>  
+Github code:
+https://github.com/matt-powelldev2784/toytoystore 
+
+
+• All Pages are server-side rendered using NextJS.
+• Server actions are used to handle user interactions with the app.
+• Some client-side components are used at the edge of the tree for user interactivity.
+• All Shopify data is fetched using the Shopify Storefront API using GraphQL queries.
+• Sanity CMS is used to manage the promotional content in the app.
+• End-to-end testing is implemented with Playwright.
+
 ### NextJs Food Take Away App
 
 A food takeaway application built to explore the main features of NextJS.   
@@ -48,27 +62,6 @@ Github code: https://github.com/matt-powelldev2784/max_volts
 • PDF invoices generated on demand in the browser  
 • User authentication using OAuth providers and secure email links using Next-Auth.  
 • Dashboard built for easy storage and retrieval of all client, product and invoicing data.
-
-
-### Redry Image Library
-User generated image library built to explore AWS services.  
-Website: <a href="http://aws-image-hosting-client.s3-website.eu-west-2.amazonaws.com" target="_blank">http://aws-image-hosting-client.s3-website.eu-west-2.amazonaws.com  </a>  
-Github client code:
-https://github.com/matt-powelldev2784/AWS_Image_Library_Client    
-Github server code:
-https://github.com/matt-powelldev2784/AWS_EC2_Lamda_Image_Library  
-
-Front End:  
-• React, Typescript, Redux and Tailwind CSS.  
-• Testing implemented using React Testing Library.
-
-Backend:  
-• Node, Express and MongoDB.  
-• Server is deployed in an AWS EC2 Instance.  
-• Images are hosted in an AWS S3 Bucket.  
-• Image thumbnail generation is facilitated by an AWS Lambda function.  
-• Secure pre-signed URL's are provided to upload the images directly to AWS S3.  
-• CICD implemented using Github actions.
 
 ### Junior Dev Person Javascript Platform Game
 
