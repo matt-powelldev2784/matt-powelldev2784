@@ -66,7 +66,7 @@ Github code: https://github.com/matt-powelldev2784/shared-calendar
 ### Max Volts Website and Invoicing Dashboard
 
 Static website and invoicing dashboard built for electrical contractor.  
-Website: <a href="https://max-volts-preview.vercel.app/" target="_blank">https://max-volts-preview.vercel.app/</a>  
+Website: <a href="https://max-volts.vercel.app/" target="_blank">https://max-volts.vercel.app/</a>  
 Github code: https://github.com/matt-powelldev2784/max_volts
 
 • Built With: NextJs, Typescript, Redux, Prisma, Postgres and Tailwind CSS.    
