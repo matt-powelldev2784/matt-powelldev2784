@@ -54,7 +54,7 @@ Github code: https://github.com/matt-powelldev2784/curry-shop
 
 A shared calendar app built to allow users to create, manage, and share events.
 
-Website: <a href="main.dg9hskkvk5sh.amplifyapp.com/" target="_blank">main.dg9hskkvk5sh.amplifyapp.com/</a>  
+Website: <a href="https://main.dg9hskkvk5sh.amplifyapp.com/" target="_blank">https://main.dg9hskkvk5sh.amplifyapp.com/</a>  
 Github code: https://github.com/matt-powelldev2784/shared-calendar
 
 • Front End: React, Tanstack Start, TypeScript, Firebase Firestore, Firebase Authentication and TailwindCSS.  
