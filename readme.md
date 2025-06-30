@@ -28,8 +28,7 @@ Website:
 App built with NextJS, TypeScript, Sanity CMS, and Shopify.
 
 Website: <a href="https://toytoystore.vercel.app" target="_blank">https://toytoystore.vercel.app/</a>  
-Github code:https://github.com/matt-powelldev2784/toytoystore 
-
+Github code: https://github.com/matt-powelldev2784/toytoystore 
 
 • All Pages are server-side rendered using NextJS.
 • Server actions are used to handle user interactions with the app.
@@ -44,7 +43,6 @@ A food takeaway application built to explore the main features of NextJS.
 
 Website: <a href="https://curry-shop.vercel.app/" target="_blank">https://curry-shop.vercel.app/</a>  
 Github code: https://github.com/matt-powelldev2784/curry-shop
-
 
 • Built with NextJS, Sanity CMS, TypeScript, Postgres, Prisma and TailwindCSS. 
 • The site utilises NextJS features for SSR, ISR, API creation, dynamic routes, and image optimisation. 
