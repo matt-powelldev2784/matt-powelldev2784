@@ -24,6 +24,19 @@ Website:
 
 ## Recent Projects
 
+### Shared Calendar App
+
+A shared calendar app built to allow users to create, manage, and share events.
+
+Website: <a href="https://main.dg9hskkvk5sh.amplifyapp.com/" target="_blank">https://main.dg9hskkvk5sh.amplifyapp.com/</a>  
+Github code: https://github.com/matt-powelldev2784/shared-calendar
+
+• Front End: React, Tanstack Router, TypeScript, Firebase Firestore, Firebase Authentication and TailwindCSS.  
+• Allows users to create, manage, and share calendar events.  
+• Users can send invitations to others, who can accept or decline event invites.  
+• User authentication is implemented with Firebase Authentication and OAuth providers.  
+• Unit testing is implemented with Vitest and React Testing Library. 
+
 ### The Toy Shop
 App built with NextJS, TypeScript, Sanity CMS, and Shopify.
 
@@ -49,19 +62,7 @@ Github code: https://github.com/matt-powelldev2784/curry-shop
 • Menu items can be added, edited and deleted using the Sanity CMS.   
 • User authentication implemented with Next-Auth.  
 • Payment gateway integrated using Stripe.  
-
-### Shared Calendar App
-
-A shared calendar app built to allow users to create, manage, and share events.
-
-Website: <a href="https://main.dg9hskkvk5sh.amplifyapp.com/" target="_blank">https://main.dg9hskkvk5sh.amplifyapp.com/</a>  
-Github code: https://github.com/matt-powelldev2784/shared-calendar
-
-• Front End: React, Tanstack Start, TypeScript, Firebase Firestore, Firebase Authentication and TailwindCSS.  
-• Allows users to create, manage, and share calendar events.  
-• Users can send invitations to others, who can accept or decline event invites.  
-• User authentication is implemented with Firebase Authentication and OAuth providers.  
-• Unit testing is implemented with Vitest and React Testing Library.  
+ 
 
 ### Max Volts Website and Invoicing Dashboard
 
