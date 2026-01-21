@@ -24,6 +24,17 @@ Website:
 
 ## Recent Projects
 
+### Max Volts Website and Invoicing Dashboard
+
+Static website and invoicing dashboard built for electrical contractor.  
+Website: <a href="https://max-volts-spa.netlify.app/" target="_blank">https://max-volts-spa.netlify.app/</a>  
+Github code: https://github.com/matt-powelldev2784/max-volts-spa
+
+• Built With: NextJs, Typescript, Redux, Prisma, Postgres and Tailwind CSS.    
+• PDF invoices generated on demand in the browser    
+• User authentication using OAuth providers and secure email links using Next-Auth.    
+• Dashboard built for easy storage and retrieval of all client, product and invoicing data. 
+
 ### Shared Calendar App
 
 A shared calendar app built to allow users to create, manage, and share events.
@@ -62,18 +73,7 @@ Github code: https://github.com/matt-powelldev2784/curry-shop
 • Menu items can be added, edited and deleted using the Sanity CMS.   
 • User authentication implemented with Next-Auth.  
 • Payment gateway integrated using Stripe.  
- 
-
-### Max Volts Website and Invoicing Dashboard
-
-Static website and invoicing dashboard built for electrical contractor.  
-Website: <a href="https://max-volts.vercel.app/" target="_blank">https://max-volts.vercel.app/</a>  
-Github code: https://github.com/matt-powelldev2784/max_volts
-
-• Built With: NextJs, Typescript, Redux, Prisma, Postgres and Tailwind CSS.    
-• PDF invoices generated on demand in the browser    
-• User authentication using OAuth providers and secure email links using Next-Auth.    
-• Dashboard built for easy storage and retrieval of all client, product and invoicing data.  
+  
 
 ### Junior Dev Person Javascript Platform Game
 
